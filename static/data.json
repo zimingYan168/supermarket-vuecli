@@ -1,0 +1,62 @@
+{
+  "name": "广州千锋",
+  "url": "http://www.funtl.com",
+  "page": 88,
+  "isNonProfit": true,
+  "address": {
+    "street": "元岗路.",
+    "city": "广东广州",
+    "country": "中国"
+  },
+  "goodsList": [
+    {
+      "id": "1",
+      "price": "108",
+      "title": "男士春装上衣2020新款连帽外套男韩版潮",
+      "src": "https://img.alicdn.com/imgextra/i2/1639116017/O1CN01dAVsTB1uJphx7FEXc_!!0-item_pic.jpg_430x430q90.jpg",
+      "people": "1888"
+    },
+    {
+      "id": "2",
+      "price": "158",
+      "title": "男士还行2020新款连帽外套男韩版潮",
+      "src": "https://img.alicdn.com/imgextra/i2/1639116017/O1CN01dAVsTB1uJphx7FEXc_!!0-item_pic.jpg_430x430q90.jpg",
+      "people": "1889"
+    },
+    {
+      "id": "3",
+      "price": "128",
+      "title": "男士运动裤2020新款连帽外套男韩版潮",
+      "src": "https://img.alicdn.com/imgextra/i2/1639116017/O1CN01dAVsTB1uJphx7FEXc_!!0-item_pic.jpg_430x430q90.jpg",
+      "people": "1900"
+    }, {
+
+      "id": "4",
+      "price": "1128",
+      "title": "男士童装外套2020新款连帽外套男韩版潮",
+      "src": "https://img.alicdn.com/imgextra/i2/1639116017/O1CN01dAVsTB1uJphx7FEXc_!!0-item_pic.jpg_430x430q90.jpg",
+      "people": "1901"
+    }, {
+
+      "id": "5",
+      "price": "1338",
+      "title": "男士秋裤2020新款连帽外套男韩版潮",
+      "src": "https://img.alicdn.com/imgextra/i2/1639116017/O1CN01dAVsTB1uJphx7FEXc_!!0-item_pic.jpg_430x430q90.jpg",
+      "people": "1902"
+    }, {
+
+      "id": "6",
+      "price": "108",
+      "title": "男士球鞋2020新款连帽外套男韩版潮",
+      "src": "https://img.alicdn.com/imgextra/i2/1639116017/O1CN01dAVsTB1uJphx7FEXc_!!0-item_pic.jpg_430x430q90.jpg",
+      "people": "1903"
+    }, {
+
+      "id": "7",
+      "price": "6888",
+      "title": "女士春装上衣2020新款连帽外套男韩版潮",
+      "src": "https://img.alicdn.com/imgextra/i2/1639116017/O1CN01dAVsTB1uJphx7FEXc_!!0-item_pic.jpg_430x430q90.jpg",
+      "people": "1904"
+    }
+  ]
+}
